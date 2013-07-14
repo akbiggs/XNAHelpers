@@ -4,6 +4,7 @@ using Microsoft.Xna.Framework;
 
 /// <summary>
 /// A static class for all helper functions.
+/// Credit: Adam Robinson-Yu
 /// </summary>
 public static class MathExtra
 {
